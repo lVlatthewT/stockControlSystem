@@ -1,0 +1,14 @@
+C:\Users\20301616\source\repos\stockControlSystem\bin\Debug\stockControlSystem.exe.config
+C:\Users\20301616\source\repos\stockControlSystem\bin\Debug\stockControlSystem.exe
+C:\Users\20301616\source\repos\stockControlSystem\bin\Debug\stockControlSystem.pdb
+C:\Users\20301616\source\repos\stockControlSystem\obj\Debug\stockControlSystem.csproj.AssemblyReference.cache
+C:\Users\20301616\source\repos\stockControlSystem\obj\Debug\stockControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\20301616\source\repos\stockControlSystem\obj\Debug\stockControlSystem.exe
+C:\Users\20301616\source\repos\stockControlSystem\obj\Debug\stockControlSystem.pdb
+C:\Users\matty\Downloads\stockControlSystem\stockControlSystem\bin\Debug\stockControlSystem.exe.config
+C:\Users\matty\Downloads\stockControlSystem\stockControlSystem\bin\Debug\stockControlSystem.exe
+C:\Users\matty\Downloads\stockControlSystem\stockControlSystem\bin\Debug\stockControlSystem.pdb
+C:\Users\matty\Downloads\stockControlSystem\stockControlSystem\obj\Debug\stockControlSystem.csproj.AssemblyReference.cache
+C:\Users\matty\Downloads\stockControlSystem\stockControlSystem\obj\Debug\stockControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\matty\Downloads\stockControlSystem\stockControlSystem\obj\Debug\stockControlSystem.exe
+C:\Users\matty\Downloads\stockControlSystem\stockControlSystem\obj\Debug\stockControlSystem.pdb
